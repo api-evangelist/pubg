@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://developer.pubg.com/
 common:
+  - type: DomainSecurity
+    url: security/pubg-domain-security.yml
   - type: Website
     url: https://developer.pubg.com/
   - type: PublicAPIsListing
