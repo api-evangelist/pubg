@@ -40,7 +40,8 @@ apis:
   - name: PUBG
     description: "Access in-game PUBG data"
     humanURL: https://developer.pubg.com/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
